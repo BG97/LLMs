@@ -175,3 +175,7 @@ cython_debug/
 
 # pkl files
 *.pkl
+
+#Folders
+wandb/
+pricer-*/
